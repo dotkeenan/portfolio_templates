@@ -1,0 +1,24 @@
+.git* text
+.npmrc text
+LICENSE text
+*.css text
+*.html text
+*.js text
+*.less text
+*.map text
+*.md text
+*.php text
+*.scss text
+*.svg text
+*.txt text
+*.yml text
+
+*.eot binary
+*.gif binary
+*.ico binary
+*.jpg binary
+*.otf binary
+*.png binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
